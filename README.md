@@ -1,5 +1,5 @@
 # Directory Tree Visualizer 🌳
-
+![DirectoryTreePrinter](https://socialify.git.ci/toaha63/DirectoryTreePrinter/image?description=1&font=JetBrains+Mono&forks=1&issues=1&language=1&name=1&owner=1&pattern=Signal&pulls=1&stargazers=1&theme=Dark)
 A modern, high-performance Java command-line application that generates clean, hierarchical directory structure visualizations. Built with Java 21+, this tool leverages **virtual threads** for efficient non-blocking I/O operations, demonstrating modern Java concurrency patterns in a practical utility.
 
 ## ✨ Features
